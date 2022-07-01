@@ -27,8 +27,10 @@ p, li{
 }
 
 .favourite{
-    padding: 25px;
+    padding: 15px;
     border: 5px rgb(173, 107, 7) solid;
+    margin: auto;
+    width: 495px;
 }
 
 .button{
@@ -39,7 +41,3 @@ p, li{
     font-size: 20px;
 }
 
-.button-container{
-    margin: auto;
-    width: 75%;
-}
