@@ -29,15 +29,15 @@ p, li{
 .favourite{
     padding: 15px;
     border: 5px rgb(173, 107, 7) solid;
-    margin: auto;
-    width: 495px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .button{
     display: inline-block;
     padding: 5px;
-    margin-right: 10px;
-    margin-left:10px;
     font-size: 20px;
+    width: auto;
+    margin: 0 50px;
 }
 
